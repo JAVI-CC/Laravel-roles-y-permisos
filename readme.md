@@ -7,3 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+<h3>User: correo@email.com</h3>
+<h3>Password: 12345678</h3>
