@@ -9,5 +9,12 @@
 
 <h3>User: correo@email.com</h3>
 <h3>Password: 12345678</h3>
-
+<hr>
+<p>Listar productos:</p>
 <p align="center"><img src="Screenshot_0.png"></p>
+
+<p>Modificar usuarios:</p>
+<p align="center"><img src="Screenshot_1.png"></p>
+
+<p>Crear roles:</p>
+<p align="center"><img src="Screenshot_2.png"></p>
