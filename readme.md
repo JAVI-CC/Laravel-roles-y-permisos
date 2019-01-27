@@ -10,4 +10,4 @@
 <h3>User: correo@email.com</h3>
 <h3>Password: 12345678</h3>
 
-<p align="center"><img src="Screenshot_0"></p>
+<p align="center"><img src="/Screenshot_0"></p>
